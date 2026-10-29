@@ -1,2 +1,4 @@
-fichero 6
+una linea
+
+otra linea 
 
